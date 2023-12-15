@@ -1,1 +1,1 @@
-dependabot/npm_and_yarn/site/postcss-8.4.31
+renovate/configure
